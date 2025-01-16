@@ -1,0 +1,1447 @@
+fileFormatVersion: 2
+guid: 574fd1a435973a640a0e49a290b30ef2
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 24
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_0
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 74
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01835246f4d73184badba89958a3c3a5
+      internalID: 1596598877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fadca80a53292664c82651ce7716edad
+      internalID: -507451427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_2
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb5ff17125594541b322630afb12297
+      internalID: 967590657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 520b5872960515e4a872ae0970d7299b
+      internalID: 1363378557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09696bda379221249a6675b3eeda196f
+      internalID: -699305736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_5
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e14a588e235cc944297b6491cdf0d110
+      internalID: 1986155746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_6
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 48
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c88219ec398241342b32e08fcca3ac09
+      internalID: -632416527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_7
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 634594a7f83a56b4cad4fb935f4b1132
+      internalID: 753730408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_8
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30cc8a6c733ad1e4fb4b9af19100f4c4
+      internalID: 1933491386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 24
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64739a4f13eb61a4bb8ec9565b8b0e12
+      internalID: -688424099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372e357ade8a8e74f86ba29a8db000ce
+      internalID: -757167743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22f21cee2ba4d5a4287a082f6dffa874
+      internalID: -189261004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_12
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d70a218ed1f53bb489dac8b194cf1f55
+      internalID: 2006139701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_13
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5bf5c89ca7d9e840ad3061f9c90c9a0
+      internalID: 1871744510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_14
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d1287e3ac4576b4f880963749aa62e9
+      internalID: -1753930725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_15
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 52
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06b550ce21d9b464096ee58d938037d3
+      internalID: -1000601301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_16
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 52
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e51e35373154d4ebfacb4d2652a26d
+      internalID: 303261897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a08476c0ac8b2e4eae8e12163807236
+      internalID: 2138400877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_18
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 52
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977d393c74d38c14091a82d129e1bf07
+      internalID: 2101626992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_19
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 104
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb58bad90bf04c844b359d5a9c421efa
+      internalID: 1713312913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_20
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42cfc13cd1ab9a546af332c0e53d07bb
+      internalID: -1268533463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_21
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8315b5f2ff0c94a8420f0518fe41d5
+      internalID: -1261333964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_22
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39fa907803914c94cb974c2cd801f4c4
+      internalID: 1722036982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_23
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 53
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5e2431ec9c381147a9a5cc82a849110
+      internalID: 577631433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_24
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925fe6204cfc01d40b8b8a48310c1ac7
+      internalID: -1019662886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_25
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 097fa56eab2bac34e9129acdc6b2d90a
+      internalID: 429984800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_26
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a30880f0f246347bbb8aa80be00f1c
+      internalID: 824640579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_27
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dddae027018a0da4188c8f7eb9e4c2de
+      internalID: 640902175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_28
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 205
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc530c0854f31cb419342738e648c178
+      internalID: -68199001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_29
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 181
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b5d9ad1de78c404cab215f370884fb3
+      internalID: -1034073337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_30
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 229
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7226783386e6e93489fd33a8d3e29c78
+      internalID: -1570301282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_31
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 157
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb651863d8bf784a96691eb3b843cd3
+      internalID: 1278177482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_32
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 155
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42f5cffb79a1a684f81183fb24677b3d
+      internalID: 717060362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_33
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 129
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 082d0397387409a4a9d86467a8d609b9
+      internalID: 1014912275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 177
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16ad580eb25bdac43897f0454ed8f21c
+      internalID: -453505587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_35
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 153
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85b5eaa3ceaab814bbd9445b69050b77
+      internalID: -1936127963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_36
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 126
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cd05e85904b4343ace42f63abad445
+      internalID: -520023536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_37
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 25
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b7e08254aa399c4e909af097761c1be
+      internalID: 147216733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_38
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 53
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b98fee264c1d0384eb23f6e9688932d8
+      internalID: 741633899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_39
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 27
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 801fce5b6d7ec85408d19f619a2bf6c0
+      internalID: 811668807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_40
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 574c805210c4bd7468ff2287cd47e45f
+      internalID: -1696979870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_41
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 79
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3be8d3a33c01f004b9b85dde5ce11e72
+      internalID: -308517610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_42
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 103
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b5d310b8aa9ed41a828a0428bdd36d
+      internalID: 950581256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_43
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 129
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baecf2a401f48b94e81ce2f6632be248
+      internalID: 1398447279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_44
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 177
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6eb28a3c7bca5e4c8b2f31869193e6a
+      internalID: 833834516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 100
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e89c532cada73740a44e7004831ae37
+      internalID: 865823458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_46
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 0
+        width: 72
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71f1c969154237b4f9bf68038299a227
+      internalID: -2133034271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_47
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 49
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7e50557a24cc040b52a1ac3f5bf127
+      internalID: 65266339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_48
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 0
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5924ca42638c41249a3157e3c6b23497
+      internalID: 454907078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_49
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a169f90bfd18bab4ebb5c891e3318234
+      internalID: -1342182763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_50
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 204
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 079eea1f495717941956113097c376df
+      internalID: -936355208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 182
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 55a6804e1cc27e144ba8ab120947206e
+      internalID: -1042759036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_52
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 130
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9a3bc79e605127428511fc8371d9b1a
+      internalID: -1196108416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_53
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bace1aa93d92f554e9bfc86e37a3e01f
+      internalID: -948511143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_54
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 78
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b29967313350769468ebed3d3a42082d
+      internalID: -1599409727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_55
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 52
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1d4a9b20dd71f841aabb33dd30fa13f
+      internalID: -1415270841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_56
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62240655a27a52f428c1d6dc30c1d893
+      internalID: 510874877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_57
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 26
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e6f47b38af631143ad33621f83329f7
+      internalID: -1211048131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_58
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5452033164b970742b499048fc578746
+      internalID: -1610966310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_59
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 0
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f19c12de854be447acce40b093d4c40
+      internalID: -1649863897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_0: 1596598877
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_1: -507451427
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_10: -757167743
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_11: -189261004
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_12: 2006139701
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_13: 1871744510
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_14: -1753930725
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_15: -1000601301
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_16: 303261897
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_17: 2138400877
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_18: 2101626992
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_19: 1713312913
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_2: 967590657
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_20: -1268533463
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_21: -1261333964
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_22: 1722036982
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_23: 577631433
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_24: -1019662886
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_25: 429984800
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_26: 824640579
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_27: 640902175
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_28: -68199001
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_29: -1034073337
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_3: 1363378557
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_30: -1570301282
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_31: 1278177482
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_32: 717060362
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_33: 1014912275
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_34: -1048827088
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_35: -453505587
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_36: -1936127963
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_37: -520023536
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_38: 147216733
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_39: 741633899
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_4: -699305736
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_40: -1696979870
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_41: -308517610
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_42: 950581256
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_43: 1398447279
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_44: 833834516
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_45: 865823458
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_46: -2133034271
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_47: 65266339
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_48: 454907078
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_49: -1342182763
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_5: 1986155746
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_50: -936355208
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_51: -1042759036
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_52: -1196108416
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_53: -948511143
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_54: -1599409727
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_55: -1415270841
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_56: 510874877
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_57: -1211048131
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_58: -1610966310
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_59: -1649863897
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_6: -632416527
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_7: 753730408
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_8: 1933491386
+      SpriteAtlasTexture-tiles (Group 1)-512x256-fmt3_9: -688424099
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
